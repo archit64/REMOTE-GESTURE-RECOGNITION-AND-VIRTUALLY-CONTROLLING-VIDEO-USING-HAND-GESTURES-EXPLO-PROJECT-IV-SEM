@@ -136,6 +136,7 @@ The image of the model prepared in "[point_history_classification.ipynb](point_h
 <img src="https://user-images.githubusercontent.com/37477845/102246771-7481ff00-3f42-11eb-8ddf-9e3cc30c5816.png" width="50%"><br>
 The model using "LSTM" is as follows. <br>Please change "use_lstm = False" to "True" when using (tf-nightly required (as of 2020/12/16))<br>
 <img src="https://user-images.githubusercontent.com/37477845/102246817-8368b180-3f42-11eb-9851-23a7b12467aa.png" width="60%">
-
+Report:-
+https://drive.google.com/drive/folders/1wlPe0_taOrHtAX19wM75mfZn8t-RPnuX?usp=sharing
 # Reference
 * [MediaPipe](https://mediapipe.dev/)
